@@ -1,0 +1,9 @@
+chromadb
+langchain
+sentence-transformers
+python-dotenv
+PyMuPDF
+requests
+langchain-community
+langchain_huggingface
+groq
